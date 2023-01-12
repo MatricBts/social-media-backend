@@ -1,0 +1,19 @@
+User
+    id
+    nome
+    sobrenome
+    senha
+    email
+
+Post
+    id
+    criador
+    comentarios
+
+
+Comentario
+    id
+    criador
+    curtidas
+    comentario
+
